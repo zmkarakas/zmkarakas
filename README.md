@@ -7,6 +7,5 @@ def MertK():
   code: [ARM, Terraform, Bash, Python, SQL, Kusto],
   tools: [Spark, Hadoop, Azure, GCP, Git, Devops, Docker, Databricks, Hive, Cloudera],
   architecture: ["microservices", "event-driven", "streaming", "batch", "ETL/ELT", "DataMesh", "DataLakehouse", "BigData", "MPP"],
-print("Bigger Data IS Better")
 
 ```
