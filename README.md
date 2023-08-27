@@ -15,5 +15,7 @@ def MertK():
 
 Industry Certifications
 
-![alt text](https://www.credly.com/badges/82b32713-1929-48d8-af9e-5db1fdfac2ca/public_url)
+![microsoft-certified-azure-data-fundamentals](https://github.com/zmkarakas/zmkarakas/assets/50174304/d4a15ac6-d287-4bd6-bd34-96e5403d1093)
+
+![microsoft-certified-azure-fundamentals](https://github.com/zmkarakas/zmkarakas/assets/50174304/867f786b-0e16-4282-8337-699bb7206abc)
 
