@@ -15,5 +15,5 @@ def MertK():
 
 Industry Certifications
 
-![alt text](http://url/to/img.png](https://www.credly.com/badges/82b32713-1929-48d8-af9e-5db1fdfac2ca/public_url))
+![alt text](https://www.credly.com/badges/82b32713-1929-48d8-af9e-5db1fdfac2ca/public_url)
 
