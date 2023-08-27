@@ -15,7 +15,4 @@ def MertK():
 
 Industry Certifications
 
-![microsoft-certified-azure-data-fundamentals](https://github.com/zmkarakas/zmkarakas/assets/50174304/d4a15ac6-d287-4bd6-bd34-96e5403d1093)
-
-![microsoft-certified-azure-fundamentals](https://github.com/zmkarakas/zmkarakas/assets/50174304/867f786b-0e16-4282-8337-699bb7206abc)
-
+![microsoft-certified-azure-data-fundamentals](https://github.com/zmkarakas/zmkarakas/assets/50174304/d4a15ac6-d287-4bd6-bd34-96e5403d1093)  ![microsoft-certified-azure-fundamentals (1)](https://github.com/zmkarakas/zmkarakas/assets/50174304/c28b0441-f381-4de6-8e97-fc6fc1e37b02) ![microsoft-certified-azure-data-engineer-associate](https://github.com/zmkarakas/zmkarakas/assets/50174304/67b06775-cc1e-493f-8193-cd6abda32a93)
