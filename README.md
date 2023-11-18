@@ -20,4 +20,4 @@ def MertK():
 
 ### Currently Reading
 
-![81+Iu7YdR+L _SY425_](https://github.com/zmkarakas/zmkarakas/assets/50174304/01fe4df4-d3e5-41cb-a273-29a2400c7b90) ![518M64WQ5SL _SY445_SX342_](https://github.com/zmkarakas/zmkarakas/assets/50174304/465e5454-d543-45fc-bc98-cdb8cdf36df5)
+![81+Iu7YdR+L _SY425_](https://github.com/zmkarakas/zmkarakas/assets/50174304/01fe4df4-d3e5-41cb-a273-29a2400c7b90) ![81qw9uLMlNL _SY466_](https://github.com/zmkarakas/zmkarakas/assets/50174304/d4ae37e5-7bec-4547-b54d-c8454f0b5408)
